@@ -1,4 +1,4 @@
-package org.airplane;
+package org.airlineReservationSystem;
 
 import com.toedter.calendar.JDateChooser;
 
@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Vector;
 
-import static org.airplane.DataStore.*;
+import static org.airlineReservationSystem.DataStore.*;
 
 public class Airplane {
     private JFrame planeF;

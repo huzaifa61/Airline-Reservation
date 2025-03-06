@@ -1,4 +1,4 @@
-package org.airplane;
+package org.airlineReservationSystem;
 
 import java.util.List;
 import java.util.ArrayList;

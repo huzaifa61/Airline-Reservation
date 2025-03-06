@@ -1,4 +1,4 @@
-package org.airplane;
+package org.airlineReservationSystem;
 
 import javax.swing.*;
 import java.awt.*;

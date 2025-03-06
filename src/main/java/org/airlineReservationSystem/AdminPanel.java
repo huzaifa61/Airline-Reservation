@@ -1,11 +1,11 @@
-package org.airplane;
+package org.airlineReservationSystem;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
 import java.util.Vector;
 
-import static org.airplane.DataStore.*;
+import static org.airlineReservationSystem.DataStore.*;
 
 /**
  * Admin panel to view and manage all bookings in memory.
