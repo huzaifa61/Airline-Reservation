@@ -50,4 +50,3 @@ This project is open-source. Feel free to use and modify it.
 
 ---
 Developed by **Huzaifa Shaikh** 🚀
-```
