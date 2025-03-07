@@ -51,15 +51,3 @@ This project is open-source. Feel free to use and modify it.
 ---
 Developed by **Huzaifa Shaikh** 🚀
 ```
-
-### **How to Add this README to Your Repository**
-1. Create a `README.md` file in your project folder.
-2. Copy and paste the above content.
-3. Commit and push:
-   ```sh
-   git add README.md
-   git commit -m "Added README file"
-   git push origin main
-   ```
-
-Your project now has a professional **README.md**! Let me know if you need modifications. 🚀
